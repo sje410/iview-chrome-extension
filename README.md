@@ -30,9 +30,9 @@ npm run build
 ```
 
 #Demo
-![demo01](./images/demo01.png)
-![demo02](./images/demo02.png)
-![demo03](./images/demo03.png)
+![demo01](images/demo01.png)
+![demo02](images/demo02.png)
+![demo03](images/demo03.png)
 
 ## 免责申明
 
