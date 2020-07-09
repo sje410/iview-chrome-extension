@@ -1,0 +1,34 @@
+{
+  "name": "iView Chrome",
+  "description": "iView Chrome Extension",
+  "author": "466209365@qq.com",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "icons": {
+    "16": "icons/chrome@16x16.png",
+    "32": "icons/chrome@32x32.png",
+    "48": "icons/chrome@48x48.png",
+    "64": "icons/chrome@64x64.png",
+    "128": "icons/chrome@128x128.png"
+  },
+  "homepage_url": "https://www.chrome.com",
+  "browser_action": {
+    "default_icon": "icons/chrome.png",
+    "default_title": "iView Chrome",
+    "default_popup": "popup/popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "<all_urls>",
+    "cookies",
+    "notifications",
+    "storage",
+    "http://*/*",
+    "https://*/*",
+    "contextMenus",
+    "unlimitedStorage"
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

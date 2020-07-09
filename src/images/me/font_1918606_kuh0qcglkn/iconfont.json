@@ -1,0 +1,37 @@
+{
+  "id": "1918606",
+  "name": "ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1464013",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "4331883",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "5583158",
+      "name": "闪电",
+      "font_class": "kuaisufan-copy-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12413953",
+      "name": "已办",
+      "font_class": "yiban",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    }
+  ]
+}
